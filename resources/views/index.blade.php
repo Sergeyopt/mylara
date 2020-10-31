@@ -15,7 +15,7 @@
                 </div>
                 <div class="col-sm-2 col-md-2">
                     <label for="hit">
-                        <input type="checkbox" name="hit" id="hit"> Хит </label>
+                        <input type="checkbox" name="hit" id="hit"> Топ </label>
                 </div>
                 <div class="col-sm-2 col-md-2">
                     <label for="new">
